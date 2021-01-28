@@ -9,7 +9,7 @@ comments: false
 <center>훌륭한 개발자가 되고 싶습니다..</center>
 
 ## About me
-<img src="/assets/img/About_me.png" width="90" height="90%" />
+<!--img src="/assets/img/About_me.png" width="90" height="90%" /-->
 * 1999.01.15
 * Republic of Korea
 * 경기도 안성고등학교 졸업
